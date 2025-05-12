@@ -1,23 +1,27 @@
 # Log In With Microsoft
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/xrh0905/oauth-microsoft.svg)](https://packagist.org/packages/xrh0905/oauth-microsoft) [![Total Downloads](https://img.shields.io/packagist/dt/xrh0905/oauth-microsoft.svg)](https://packagist.org/packages/xrh0905/oauth-microsoft)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/piwind/oauth-microsoft.svg)](https://packagist.org/packages/piwind/oauth-microsoft) [![Total Downloads](https://img.shields.io/packagist/dt/piwind/oauth-microsoft.svg)](https://packagist.org/packages/piwind/oauth-microsoft)
 
-![](https://extiverse.com/extension/xrh0905/oauth-microsoft/open-graph-image)
+![](https://extiverse.com/extension/piwind/oauth-microsoft/open-graph-image)
 
 Log in to your Flarum forum with Microsoft. An addon for [FoF OAuth](https://github.com/friendsofflarum/oauth)
 
-## Installation
+## About This Fork
+
+This repository is a fork of [xrh0905/flarum-ext-oauth-microsoft](https://github.com/xrh0905/flarum-ext-oauth-microsoft), with **only visual adjustments** to align with Microsoft’s current color scheme. No functional changes were made.
+
+## Installation & Updating
 
 Install with composer:
 
 ```sh
-composer require xrh0905/oauth-microsoft
+composer require piwind/oauth-microsoft
 ```
 
-## Updating
+Updating:
 
 ```sh
-composer update xrh0905/oauth-microsoft
+composer update piwind/oauth-microsoft
 ```
 
 ## Setup
@@ -27,6 +31,6 @@ composer update xrh0905/oauth-microsoft
 
 ## Links
 
-- [Packagist](https://packagist.org/packages/xrh0905/oauth-microsoft)
-- [GitHub](https://github.com/xrh0905/flarum-ext-oauth-microsoft)
-- [Discuss](https://github.com/xrh0905/flarum-ext-oauth-microsoft/issues)
+- [Packagist](https://packagist.org/packages/piwind/oauth-microsoft)
+- [GitHub](https://github.com/piwind/flarum-ext-oauth-microsoft)
+
