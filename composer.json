@@ -19,6 +19,10 @@
         {
             "name": "piwind",
             "homepage": "https://github.com/piwind"
+        },
+        {
+            "name": "xrh0905",
+            "homepage": "https://github.com/xrh0905"
         }
     ],
     "autoload": {
