@@ -1,9 +1,7 @@
-.LogInButton--microsoft {
-    border-top-color: rgb(25, 87, 133);
-    border-right-color: rgb(25, 87, 133);
-    border-bottom-color: rgb(25, 87, 133);
-    border-left-color: rgb(25, 87, 133);
-    border-width: 1px;
+@bg-color: #0067b8;
+@border-color: #195785;
 
-    .Button--color(#000, #004578);
+.LogInButton--microsoft {
+    border: 1px solid @border-color;
+    .Button--color(#fff, @bg-color);
 }
