@@ -9,7 +9,7 @@
  *  file that was distributed with this source code.
  */
 
-namespace xrh0905\OAuthMicrosoft\Providers;
+namespace piwind\OAuthMicrosoft\Providers;
 
 use Flarum\Extend\Console;
 use Flarum\Forum\Auth\Registration;

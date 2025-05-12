@@ -9,11 +9,11 @@
  *  file that was distributed with this source code.
  */
 
-namespace xrh0905\OAuthMicrosoft;
+namespace piwind\OAuthMicrosoft;
 
 use Flarum\Extend;
 use FoF\OAuth\Extend as OAuthExtend;
-use xrh0905\OAuthMicrosoft\Providers\Microsoft;
+use piwind\OAuthMicrosoft\Providers\Microsoft;
 
 return [
     (new Extend\Frontend('forum'))

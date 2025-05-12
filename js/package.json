@@ -1,5 +1,5 @@
 {
-  "name": "@xrh0905/oauth-microsoft",
+  "name": "@piwind/oauth-microsoft",
   "version": "0.0.0",
   "private": true,
   "prettier": "@flarum/prettier-config",

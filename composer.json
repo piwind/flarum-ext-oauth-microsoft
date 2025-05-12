@@ -1,5 +1,5 @@
 {
-    "name": "xrh0905/oauth-microsoft",
+    "name": "piwind/oauth-microsoft",
     "description": "Log in to your Flarum forum with Microsoft",
     "keywords": [
         "flarum", "microsoft", "sso", "oauth", "login"
@@ -7,9 +7,8 @@
     "type": "flarum-extension",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/xrh0905/flarum-ext-oauth-microsoft/issues",
-        "source": "https://github.com/xrh0905/flarum-ext-oauth-microsoft",
-        "forum": "https://example.com"
+        "issues": "https://github.com/piwind/flarum-ext-oauth-microsoft/issues",
+        "source": "https://github.com/piwind/flarum-ext-oauth-microsoft"
     },
     "require": {
         "flarum/core": "^1.2.0",
@@ -18,13 +17,13 @@
     },
     "authors": [
         {
-            "name": "xrh0905",
-            "homepage": "https://github.com/xrh0905"
+            "name": "piwind",
+            "homepage": "https://github.com/piwind"
         }
     ],
     "autoload": {
         "psr-4": {
-            "xrh0905\\OAuthMicrosoft\\": "src/"
+            "piwind\\OAuthMicrosoft\\": "src/"
         }
     },
     "extra": {
